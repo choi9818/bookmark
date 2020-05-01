@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1ad6b5f-8687-45c9-9bf0-a4cb42cca9a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aZ8pFpJRgj3YcjsnC7t1cNjwFn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Public/Downloads" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chwec\PythonProject\bookmark\bookmark" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bookmark" type="Python.DjangoServer" factoryName="Django server">
+      <module name="bookmark" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1ad6b5f-8687-45c9-9bf0-a4cb42cca9a9" name="Default Changelist" comment="" />
+      <created>1586931936471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586931936471</updated>
+      <workItem from="1586931940195" duration="1706000" />
+      <workItem from="1587003924255" duration="3673000" />
+      <workItem from="1587038695987" duration="879000" />
+      <workItem from="1587223511535" duration="342000" />
+      <workItem from="1587829091275" duration="616000" />
+      <workItem from="1588062353201" duration="14671000" />
+      <workItem from="1588349796682" duration="860000" />
+      <workItem from="1588351317887" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="72" key="#Inspections" timestamp="1587006881949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="72" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587006881949" />
+    <state x="773" y="180" key="FileChooserDialogImpl" timestamp="1588349916702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="773" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588349916702" />
+    <state width="1142" height="2" key="GridCell.Tab.0.bottom" timestamp="1588077849978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1142" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588077849978" />
+    <state width="1142" height="2" key="GridCell.Tab.0.center" timestamp="1588077849977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1142" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588077849977" />
+    <state width="1142" height="2" key="GridCell.Tab.0.left" timestamp="1588077849977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1142" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588077849977" />
+    <state width="1142" height="2" key="GridCell.Tab.0.right" timestamp="1588077849977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1142" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588077849977" />
+    <state width="919" height="258" key="GridCell.Tab.1.bottom" timestamp="1586933778612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="919" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586933778612" />
+    <state width="919" height="258" key="GridCell.Tab.1.center" timestamp="1586933778612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="919" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586933778612" />
+    <state width="919" height="258" key="GridCell.Tab.1.left" timestamp="1586933778612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="919" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586933778612" />
+    <state width="919" height="258" key="GridCell.Tab.1.right" timestamp="1586933778612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="919" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586933778612" />
+    <state x="20" y="8" width="1234" height="534" key="dock-window-1" timestamp="1588350226873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="20" y="8" width="1234" height="534" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1588350226872" />
+    <state x="843" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588063818495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="843" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588063818495" />
+  </component>
+</project>
